@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638826813687",
+    "project_id": "sample-paper-34513",
+    "storage_bucket": "sample-paper-34513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638826813687:android:8b1b81d8d058aa18699bf2",
+        "android_client_info": {
+          "package_name": "com.alphax.samplepapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638826813687-251s7e91go3kut0vd3j777u5b7bi7aeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsNWQ8vl_X14WosO5DxfdOe7OmBXtdqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638826813687-251s7e91go3kut0vd3j777u5b7bi7aeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
